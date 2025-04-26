@@ -1,5 +1,5 @@
 # project-index
-Links of all frontend projects hosted in github pages 
+Links of 10+ frontend projects hosted in github pages 
 
 https://sakthi17.github.io/wikipedia-viewer
 https://sakthi17.github.io/weather-app
